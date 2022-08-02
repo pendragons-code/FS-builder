@@ -12,3 +12,9 @@ A script written in python that build statements of financial performance and po
 # Why?
 
 Why did I make this? I don't know man, I think I made this for fun. I am not sure if i will use python for this since i might trying doing the same with js. Whatever, man. I think this is also a good revision for both code and account.
+
+# I might not make this project
+Why? because it is impractical and very complex.
+What do i mean complex? multiple manipulation with strings make this project so difficult to make most people rather do the thing by hand.
+
+Worse of all, spacing and cells. The character size and fonts literally breaks most of the prototypes despite the backend working very well.
