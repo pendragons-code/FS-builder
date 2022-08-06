@@ -18,3 +18,9 @@ Why? because it is impractical and very complex.
 What do i mean complex? multiple manipulation with strings make this project so difficult to make most people rather do the thing by hand.
 
 Worse of all, spacing and cells. The character size and fonts literally breaks most of the prototypes despite the backend working very well.
+
+
+
+I am almost done with financial performance trading business
+ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+i don't know why am i doing this.
